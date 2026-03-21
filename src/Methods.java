@@ -19,7 +19,7 @@ public class Methods {
         // adding arguments. Variable names instead ov values allowed.
 
         score = 10000;
-        levelCompleted = 8;
+        levelCompleted = 8; 
         bonus = 200;
         // remove data type so no longer declaration statements
         // and make them assignment statements
